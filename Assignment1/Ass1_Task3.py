@@ -46,6 +46,6 @@ def is_indonesia_or_poland_flag(image_path):
 
 # Main execution
 if __name__ == "__main__":
-    image_path = "indo.jpg"  # Replace with the actual image path
+    image_path = "indo.jpg"  
     result = is_indonesia_or_poland_flag(image_path)
     print(result)
